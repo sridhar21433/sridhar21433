@@ -49,7 +49,11 @@ I'm an **Aspiring AWS Cloud & DevOps Engineer** passionate about designing secur
 ### 🛠️ Tools
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PuTTY](https://img.shields.io/badge/PuTTY-003B57?style=for-the-badge)
+![MobaXterm](https://img.shields.io/badge/MobaXterm-0078D7?style=for-the-badge)
 
 # 📜 Certifications
 
@@ -62,8 +66,6 @@ I'm an **Aspiring AWS Cloud & DevOps Engineer** passionate about designing secur
 # 🌐 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/sridharcloud/
-
-📧 Email: sridharram8767@gmail.com
 
 🐙 GitHub: https://github.com/sridhar21433
 
