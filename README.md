@@ -87,40 +87,6 @@ I'm an **Aspiring AWS Cloud & DevOps Engineer** passionate about designing secur
 
 ---
 
-# 🚀 Featured Projects
-
-### 🚀 End-to-End CI/CD Pipeline for Spring Boot
-
-- Jenkins Pipeline
-- Docker
-- Spring Boot
-- GitHub
-- Maven
-- Automated Build & Deployment
-
----
-
-### 💬 Real-Time Serverless Chat Application
-
-- AWS Lambda
-- API Gateway (WebSocket)
-- DynamoDB
-- IAM
-- CloudWatch
-- Amazon S3
-
----
-
-### 📩 Serverless Contact Form
-
-- AWS Lambda
-- Amazon SES
-- API Gateway
-- Amazon S3
-- IAM
-
----
-
 # 📜 Certifications
 
 🏆 AWS Cloud Practitioner Essentials
@@ -136,30 +102,6 @@ I'm an **Aspiring AWS Cloud & DevOps Engineer** passionate about designing secur
 📧 Email: sridharram8767@gmail.com
 
 🐙 GitHub: https://github.com/sridhar21433
-
----
-
-# 🌱 Currently Exploring
-
-☁️ Terraform (Infrastructure as Code)
-
-☸️ Kubernetes
-
-🐳 Docker Best Practices
-
-⚙️ Advanced Jenkins Pipelines
-
-🚀 AWS ECS & EKS
-
-📊 Cloud Monitoring & Observability
-
-🔐 AWS Security Best Practices
-
----
-
-# 🎯 Career Objective
-
-To begin my career as an **AWS Cloud & DevOps Engineer**, where I can apply my cloud knowledge, automation skills, and passion for continuous learning to build scalable, secure, and reliable cloud infrastructure.
 
 ---
 
