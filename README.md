@@ -45,7 +45,7 @@ I'm an **Aspiring AWS Cloud & DevOps Engineer** passionate about designing secur
 # 💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python"/>
+<img src="https://skillicons.dev/icons?i=python"/>
 </p>
 
 - Python
