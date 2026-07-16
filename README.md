@@ -55,13 +55,6 @@ I'm an **Aspiring AWS Cloud & DevOps Engineer** passionate about designing secur
 ![PuTTY](https://img.shields.io/badge/PuTTY-003B57?style=for-the-badge)
 ![MobaXterm](https://img.shields.io/badge/MobaXterm-0078D7?style=for-the-badge)
 
-# 📜 Certifications
-
-🏆 AWS Cloud Practitioner Essentials
-
-🏆 AWS Cloud Internship
-
----
 
 # 🌐 Connect With Me
 
