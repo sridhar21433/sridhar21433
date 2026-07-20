@@ -65,4 +65,4 @@ I'm an **Aspiring AWS Cloud & DevOps Engineer** passionate about designing secur
 
 ---
 
-⭐ *"Automating today for a more reliable tomorrow."* ☁️🚀
+⭐ *"Automating today for a more reliable tomorrow"* ☁️🚀
