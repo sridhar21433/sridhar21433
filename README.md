@@ -4,7 +4,7 @@
 
 # 👋 Hello, I'm Sridhar.
 
-Aspiring AWS Cloud and DevOps Engineer with hands-on experience in AWS services, serverless applications,and automation tools. Skilled in AWS, Docker, Jenkins, Git, and Linux. Passionate about cloud infrastructure,DevOps practices, and building scalable, reliable solutions through continuous learning and innovation. ☁️🚀
+Aspiring Cloud and DevOps Engineer who enjoys automating repetitive work and making software delivery faster and more reliable. Learn best by building and troubleshooting real setups on AWS, and care about clean,repeatable, and scalable infrastructure. Looking for an entry-level role where I can contribute to a team andgrow into production-scale cloud environments.. ☁️🚀
 
 ---
 
