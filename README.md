@@ -24,15 +24,18 @@ Aspiring Cloud and DevOps Engineer who enjoys automating repetitive work and mak
 
 ### 🚀 DevOps & CI/CD
 
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### 💻 Scripting & OS
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🖥️ Monitoring & Logging 
@@ -41,15 +44,15 @@ Aspiring Cloud and DevOps Engineer who enjoys automating repetitive work and mak
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
 
-### 🌱 Framework
+### 🌐 Networking
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
-
-### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![OSI Model](https://img.shields.io/badge/OSI_Model-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+![IP](https://img.shields.io/badge/IP-00599C?style=for-the-badge&logo=internetprotocol&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-222222?style=for-the-badge&logo=openssh&logoColor=white)
+![TCP/UDP](https://img.shields.io/badge/TCP%2FUDP-6A5ACD?style=for-the-badge&logoColor=white)
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-00897B?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Subnetting](https://img.shields.io/badge/Subnetting-FF9800?style=for-the-badge&logoColor=white)
 
 ### 🛠️ Tools
 
